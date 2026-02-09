@@ -16,7 +16,7 @@ The insights from this analysis help the store identify growth opportunities and
   <li>State-wise performance</li>
 </ul>
 
-<h3>Dataset Questions (KPIs)</h3>
+## Dataset Questions (KPIs)
 <ol>
   <li>Compare the sales and orders using single chart</li>
   <li>Which month got the highest sales and orders?</li>
