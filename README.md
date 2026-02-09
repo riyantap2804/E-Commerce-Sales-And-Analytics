@@ -4,7 +4,7 @@ The Riyan Store aims to create an Annual Sales Report for 2025 to understand cus
 The insights from this analysis help the store identify growth opportunities and make data-driven decisions to improve sales performance in upcoming years.
 
 ## Dataset used
-- <a href="https://github.com/riyantap2804/E-Commerce-Sales-And-Analytics/blob/main/E-Commerce%20Sales%20Analytics(Project).xlsx">Riyan Store Dataset</a>
+<a href="https://github.com/riyantap2804/E-Commerce-Sales-And-Analytics/blob/main/E-Commerce%20Sales%20Analytics(Project).xlsx">Riyan Store Dataset</a>
 <p>The dataset contains 2025 e-commerce transactional data including:</p>
 <ul>
   <li>Order details and sales values</li>
