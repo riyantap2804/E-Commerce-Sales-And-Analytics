@@ -27,7 +27,7 @@ The insights from this analysis help the store identify growth opportunities and
   <li>Which Channel is contributing maximum to the sales?</li>
   <li>Highest selling category?</li>
   <li>Percentage of Total Orders delivered</li>
-  <li>Dashboard Interaction <a href="">View Dashboard</a></li>
+  <li>Dashboard Interaction <a href="https://github.com/riyantap2804/E-Commerce-Sales-And-Analytics/blob/main/E-Commerce%20Sales%20Dashboard.png">View Dashboard</a></li>
 </ol>
 
 
