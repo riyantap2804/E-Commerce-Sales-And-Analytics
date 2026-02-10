@@ -43,6 +43,9 @@ The insights from this analysis help the store identify growth opportunities and
   <li>Applied slicers for dynamic filtering and analysis</li>
 </ul>
 
+## Dashboard
+<img width="1265" height="822" alt="E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/5d358554-44aa-4ef0-93bf-b61f0d75bdf2" />
+
 ## Project Insights
 <ul>
   <li>Sales performance varies across months, with specific peak periods identified</li>
