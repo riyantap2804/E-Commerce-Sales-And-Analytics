@@ -30,6 +30,34 @@ The insights from this analysis help the store identify growth opportunities and
   <li>Dashboard Interaction <a href="https://github.com/riyantap2804/E-Commerce-Sales-And-Analytics/blob/main/E-Commerce%20Sales%20Dashboard.png">View Dashboard</a></li>
 </ol>
 
+## Process
+<ul>
+  <li>Verified dataset for missing values and anomalies</li>
+  <li>Cleaned and standardized data types, formats, and values</li>
+  <li>Created pivot tables to answer business questions</li>
+  <li>Built charts for each KPI</li>
+  <li>Combined all visuals into a single interactive dashboard</li>
+  <li>Applied slicers for dynamic filtering and analysis</li>
+</ul>
+
+## Project Insights
+<ul>
+  <li>Sales performance varies across months, with specific peak periods identified</li>
+  <li>Customer purchasing behavior differs across gender and age groups</li>
+  <li>Certain states contribute significantly higher revenue compared to others</li>
+  <li>Multiple order statuses provide insight into fulfillment performance</li>
+  <li>Sales channels show varied contribution levels to total revenue</li>
+  <li>Specific product categories drive the majority of sales volume</li>
+  <li>A large proportion of total orders are successfully delivered</li>
+</ul>
+
+## Final Conclusion
+<p>
+The 2025 sales analysis provides clear insights into customer demographics, regional performance, and channel effectiveness.
+By focusing on high-performing customer segments, top-performing regions, and leading sales channels, Riyan Store can implement targeted strategies to improve customer engagement and drive future sales growth.
+</p>
+
+
 
 
 
